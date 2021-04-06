@@ -15,9 +15,9 @@ This part introduces containerization with Docker and relevant concepts such as 
 
 * Utilize volumes to store data persistently outside of the containers.
 
-* Use port mapping to enable access via TCP to containerized applications
+* Use port mapping to enable access via TCP to containerized applications.
 
-* Share your own containers publicly
+* Share your own containers publicly.
 </div>
 
 <div class="section" markdown="1">
