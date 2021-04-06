@@ -11,7 +11,7 @@ This part introduces containerization with Docker and relevant concepts such as 
 
 * Run containerized applications.
 
-* Containerize applications
+* Containerize applications.
 
 * Utilize volumes to store data persistently outside of the containers.
 
